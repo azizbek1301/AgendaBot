@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoBotAPI", "ToDoBotAPI\ToDoBotAPI.csproj", "{4BD2F720-041B-4762-9A9D-B7F4DFC8F2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD2F720-041B-4762-9A9D-B7F4DFC8F2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD2F720-041B-4762-9A9D-B7F4DFC8F2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD2F720-041B-4762-9A9D-B7F4DFC8F2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD2F720-041B-4762-9A9D-B7F4DFC8F2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFEF406-07DF-4EDA-8599-CFB21E9B3355}
+	EndGlobalSection
+EndGlobal
